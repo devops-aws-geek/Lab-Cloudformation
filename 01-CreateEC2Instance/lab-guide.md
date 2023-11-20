@@ -58,7 +58,7 @@
 `sudo apt install unzip`
 
 ---
-`sudo apt install unzip`
+`sudo unzip awscliv2.zip`
 
 ---
 `sudo ./aws/install`
